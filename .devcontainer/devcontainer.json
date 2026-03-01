@@ -1,7 +1,0 @@
-{
-  "name": "Haskell Codespace",
-  "image": "haskell:9.8.4-slim-bullseye",
-  "extensions": [
-    "haskell.haskell" // Recommends the Haskell extension for VS Code
-  ]
-}
