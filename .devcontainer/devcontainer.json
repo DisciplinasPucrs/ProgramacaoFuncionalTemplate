@@ -1,6 +1,6 @@
 {
   "name": "Haskell",
-  "image": "mcr.microsoft.com/devcontainers/base:alpine-3.22",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
   "features": {
     "ghcr.io/devcontainers-extra/features/haskell:2": {}
   },
